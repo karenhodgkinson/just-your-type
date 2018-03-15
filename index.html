@@ -6,16 +6,33 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link href="css/grid.css" rel="stylesheet">
   <link href="css/type.css" rel="stylesheet">
+  <link href="css/modules.css" rel="stylesheet">
   <link href="css/main.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Dancing+Script:700|Rozha+One" rel="stylesheet">
 </head>
 <body>
-  <h1>I'll be</h1>
-  <p>&</p>
-  <p>the wind</p>
-  <p>the rain</p>
-  <p>the sunset</p>
-  <p>The light on your door</p>
-  <p>To show that you're home</p>
+  <div class="grid">
+
+    <h1 class="unit xs-1 l-1-2">I'll be</h1>
+
+    <div class="grid unit">
+      <p class="unit xs-1-4">&</p>
+      <div class="unit xs-3-4">
+        <div class="grid">
+          <p class="unit">the wind</p>
+          <p class="unit">the rain</p>
+          <p class="unit">the sunset</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="unit xs-1 l-1-2">
+      <p>The light on your door</p>
+      <p>To show that you're home</p>
+
+    </div>
+
+  </div>
+
 </body>
 </html>
