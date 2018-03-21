@@ -1,0 +1,25 @@
+html {
+  font-family: "Rozha One", serif;
+  background-color: #a186b1;
+  color: white;
+}
+
+.weather {
+  font-family: "Dancing Script", cursive;
+}
+
+.home {
+  color: #414242;
+}
+
+strong, .amp {
+  color: #414242;
+}
+
+.wind {
+  text-align: left;
+}
+
+.amp {
+  font-family: "Rozha One", serif;
+}
