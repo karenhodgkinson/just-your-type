@@ -5,18 +5,14 @@ html {
 }
 
 h1 {
-  border-bottom: .25em solid #f2f3f1;
+  border-bottom: .1em solid #f2f3f1;
 }
 
 .weather {
   font-family: Satisfy, cursive;
 }
 
-.home {
-  color: #414242;
-}
-
-strong, .amp {
+strong, .amp, .home {
   color: #414242;
 }
 
