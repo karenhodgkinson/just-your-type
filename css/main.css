@@ -5,7 +5,8 @@ html {
 }
 
 h1 {
-  border-bottom: .1em solid #f2f3f1;
+  border: .1em solid #f2f3f1;
+  border-style: dotted;
 }
 
 .weather {
