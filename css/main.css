@@ -1,11 +1,15 @@
 html {
   font-family: "Rozha One", serif;
   background-color: #a186b1;
-  color: white;
+  color: #f2f3f1;
+}
+
+h1 {
+  border-right: 3px solid white;
 }
 
 .weather {
-  font-family: "Dancing Script", cursive;
+  font-family: 'Satisfy', cursive;
 }
 
 .home {
