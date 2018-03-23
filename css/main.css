@@ -4,16 +4,13 @@ html {
   color: #f2f3f1;
 }
 
-h1 {
-  border: .1em solid #f2f3f1;
-  border-style: dotted;
-}
 
-.weather {
+
+.weather, .fin {
   font-family: Satisfy, cursive;
 }
 
-strong, .amp, .home {
+strong, .amp, .fin {
   color: #414242;
 }
 
