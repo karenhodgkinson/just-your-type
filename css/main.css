@@ -4,13 +4,11 @@ html {
   color: #f2f3f1;
 }
 
-
-
-.weather, .fin {
+.weather, .home {
   font-family: Satisfy, cursive;
 }
 
-strong, .amp, .fin {
+strong, .amp, .home {
   color: #414242;
 }
 
